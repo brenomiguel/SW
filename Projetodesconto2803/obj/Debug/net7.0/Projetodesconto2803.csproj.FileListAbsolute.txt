@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Projetodesconto2803\bin\Debug\net7.0\Projetodesconto2803.exe
+C:\Users\LAB4\Desktop\Projetodesconto2803\bin\Debug\net7.0\Projetodesconto2803.deps.json
+C:\Users\LAB4\Desktop\Projetodesconto2803\bin\Debug\net7.0\Projetodesconto2803.runtimeconfig.json
+C:\Users\LAB4\Desktop\Projetodesconto2803\bin\Debug\net7.0\Projetodesconto2803.dll
+C:\Users\LAB4\Desktop\Projetodesconto2803\bin\Debug\net7.0\Projetodesconto2803.pdb
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\Projetodesconto2803.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\Projetodesconto2803.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\Projetodesconto2803.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\Projetodesconto2803.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\Projetodesconto2803.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\Projetodesconto2803.dll
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\refint\Projetodesconto2803.dll
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\Projetodesconto2803.pdb
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\Projetodesconto2803.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Projetodesconto2803\obj\Debug\net7.0\ref\Projetodesconto2803.dll
