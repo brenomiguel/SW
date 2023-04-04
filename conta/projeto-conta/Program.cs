@@ -6,11 +6,11 @@ class Program
         Console.WriteLine("Projeto Banco ETEC MCM");
         Conta c = new Conta();
         //c.Saldo = 1000;
-        c.Depositar(1000);
-        c.Sacar(1600);
+        c.Depositar(1200);
+        c.Sacar(1700);
         //  com = é Set
         // sem igual Get
-        c.AjustarLimite(500);
+        c.AjustarLimite(600);
 
         double valortotal = c.MostrarSaldo();
 
