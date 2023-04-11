@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Projeto_Agregacao\bin\Debug\net7.0\Projeto_Agregacao.exe
+C:\Users\LAB4\Desktop\Projeto_Agregacao\bin\Debug\net7.0\Projeto_Agregacao.deps.json
+C:\Users\LAB4\Desktop\Projeto_Agregacao\bin\Debug\net7.0\Projeto_Agregacao.runtimeconfig.json
+C:\Users\LAB4\Desktop\Projeto_Agregacao\bin\Debug\net7.0\Projeto_Agregacao.dll
+C:\Users\LAB4\Desktop\Projeto_Agregacao\bin\Debug\net7.0\Projeto_Agregacao.pdb
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\Projeto_Agregacao.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\Projeto_Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\Projeto_Agregacao.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\Projeto_Agregacao.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\Projeto_Agregacao.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\Projeto_Agregacao.dll
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\refint\Projeto_Agregacao.dll
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\Projeto_Agregacao.pdb
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\Projeto_Agregacao.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Projeto_Agregacao\obj\Debug\net7.0\ref\Projeto_Agregacao.dll
