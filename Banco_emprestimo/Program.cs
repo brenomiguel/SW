@@ -18,6 +18,7 @@ class Program
 
         Console.WriteLine("Seu saldo total é de " + valortotal);
         //Console.WriteLine("Seu saldo total é de " + c.Saldo);
-        c.imprimi(b.emprestimo(12,1000));
+        
+        c.imprimi(c.emprestimo(12,1000));
     }
 }
