@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\bin\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.exe
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\bin\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.deps.json
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\bin\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.runtimeconfig.json
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\bin\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.dll
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\bin\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.pdb
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.dll
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\refint\exercicio_de_heranca_e_polimorfismo01.dll
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.pdb
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\exercicio_de_heranca_e_polimorfismo01.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exercicio_de_heranca_e_polimorfismo01\obj\Debug\net7.0\ref\exercicio_de_heranca_e_polimorfismo01.dll
