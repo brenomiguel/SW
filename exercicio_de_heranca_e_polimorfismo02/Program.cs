@@ -4,17 +4,19 @@ class Program
     static void Main(string[] args)
     {
         Contrato c = new Contrato();
-        ContratoPessoaFisica cf = new ContratoPessoaFisica();
-        ContratoPessoaJuridica cj = new ContratoPessoaJuridica();
+        ContratoPessoaFisica pf = new ContratoPessoaFisica();
+        ContratoPessoaJuridica pj = new ContratoPessoaJuridica();
 
-        cf.Tipo = "Pessoa Física";
-        cf.Idade = 50;
-        cf.Cpf = 12345678910;
-        cj.Tipo = "Pessoa Jurídica";
-        cj.Cnpj = 19876543210;
-        cj.Inscricao = 13579246810;
-
-        Console.WriteLine("Tipo de contrato: " + cf.Tipo + " //Idade: " + cf.Idade + " //CPF: " +cf.Cpf);
-        Console.WriteLine("Tipo de contrato: " + cj.Tipo + " //CNPJ: " + cj.Cnpj + " //Inscrição estadual: " +cj.Inscricao);
+        pf.Tipo = "Pessoa Física";
+        pj.Tipo = "Pessoa Jurídica";
+        pf.Idade = 40;
+        pf.Cpf = 93472937520;
+        pj.Cnpj = 93427504819;
+        pj.Inscricao = 19509216817;
+        
+        
+        Console.WriteLine("Tipo de contrato: " + pj.Tipo + " //CNPJ: " + pj.Cnpj + " ||Inscrição estadual: " + pj.Inscricao);
+        Console.WriteLine("Tipo de contrato: " + pf.Tipo + " //Idade: " + pf.Idade + " ||CPF: " + pf.Cpf);
+        
     }
 } 
