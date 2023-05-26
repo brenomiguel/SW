@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\exercicio_de_heranca_e_polimorfismo02\\exercicio_de_heranca_e_polimorfismo02.csproj",
-      "projectName": "exercicio_de_heranca_e_polimorfismo02",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\exercicio_de_heranca_e_polimorfismo02\\exercicio_de_heranca_e_polimorfismo02.csproj",
-      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\exercicio_de_heranca_e_polimorfismo02\\obj\\",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\exercicio_de_heranca_e_polimorfismo03\\exercicio_de_heranca_e_polimorfismo03.csproj",
+      "projectName": "exercicio_de_heranca_e_polimorfismo03",
+      "projectPath": "C:\\Users\\User\\Desktop\\exercicio_de_heranca_e_polimorfismo03\\exercicio_de_heranca_e_polimorfismo03.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\exercicio_de_heranca_e_polimorfismo03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
